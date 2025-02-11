@@ -1,0 +1,17 @@
+[project]
+name = "algaedetectFRC"
+version = "0.1.0"
+authors = [
+  { name = "Julia Al-Otoom", email = "julia.alotoom.contact@gmail.com" },
+]
+description = "Algae detection for FRC 2025 Reefscape"
+readme = "README.md"
+requires-python = ">=3.13"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = { file = "LICENSE" }
+
+[project.urls]
+Homepage = "https://github.com/julia-alotoom/algaedetectFRC"
